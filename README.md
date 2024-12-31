@@ -3,5 +3,5 @@
 Detect broken links.
 
 ```
-go run main.go -url https://olsen-breuner.job-shop.com/demo/ -depth 0
+go run main.go -url https://example.com/ -depth 0
 ```
